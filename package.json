@@ -1,0 +1,21 @@
+{
+  "name": "chrome-block-cli",
+  "version": "1.0.0",
+  "description": "this a  template of chrome extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZHIPENG.TU",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "ora": "^5.1.0"
+  },
+  "bin": {
+	"chrome-block-cli": "bin/chrome-block-cli"
+}
+}
