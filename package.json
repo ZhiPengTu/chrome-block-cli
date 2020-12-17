@@ -1,6 +1,6 @@
 {
   "name": "chrome-block-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this a  template of chrome extensions",
   "main": "bin/chrome-block-cli.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "ora": "^5.1.0"
   },
   "publishConfig": {
-  "registry":"https://github.com/ZhiPengTu/chrome-block-cli.git"
+  "registry":"https://github.com/ZhiPengTu"
 },
   "bin": {
     "chrome-block-cli": "bin/chrome-block-cli"
