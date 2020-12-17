@@ -1,6 +1,6 @@
 {
   "name": "chrome-block-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "this a  template of chrome extensions",
   "main": "./bin/chrome-block-cli.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "url": "git+https://github.com/ZhiPengTu/chrome-block-cli.git"
   },
   "bin": {
-    "dz": "bin/cli"
+    "dz": "./bin/cli.js"
   }
 }
