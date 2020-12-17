@@ -1,6 +1,10 @@
 {
-  "init": {
-    "name": "init",
+  "dataCom": {
+    "name": "dataCom",
+    "path": "https://github.com/ZhiPengTu/dataCom.git"
+  },
+   "CRX": {
+    "name": "dataCom",
     "path": "https://github.com/ZhiPengTu/dataCom.git"
   }
 }

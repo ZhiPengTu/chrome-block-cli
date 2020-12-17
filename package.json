@@ -13,7 +13,11 @@
     "commander": "^6.2.1",
     "download-git-repo": "^3.0.2",
     "inquirer": "^7.3.3",
+     "fs-extra": "^8.0.1",
     "ora": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=8.9"
   },
   "repository": {
     "type": "git",
