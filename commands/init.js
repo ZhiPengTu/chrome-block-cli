@@ -22,7 +22,7 @@ Project.prototype.create = function() {
       type: "input",
       name: "name",
       message: "Project name",
-      default:projectName,
+      default: projectName,
       filter(val) {
         return val.trim();
       },

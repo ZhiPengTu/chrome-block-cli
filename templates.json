@@ -3,8 +3,12 @@
     "name": "dataCom",
     "path": "https://github.com/ZhiPengTu/dataCom.git"
   },
-   "CRX": {
-    "name": "dataCom",
+  "NUXT": {
+    "name": "NUXT",
     "path": "https://github.com/ZhiPengTu/dataCom.git"
+  },
+  "CRX": {
+    "name": "CRX",
+    "path": "https://github.com/ZhiPengTu/chrome-excution-template.git"
   }
 }
